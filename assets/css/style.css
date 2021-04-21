@@ -2,12 +2,12 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 1;
-  color: #666666;
+  color: #696868;
 }
 
 h1 {
   font-family: 'Playfair Display', serif;
-  color: rgb(0, 110, 255);
+  color: rgb(104, 147, 202);
 }
 
 textarea {
@@ -35,23 +35,23 @@ textarea {
 .row {
   white-space: pre-wrap;
   height: 80px;
-  border-top: 1px solid #CEE5F2;
+  border-top: 1px solid #cbe1ee;
 }
 
 .hour {
-  border-right: 1px solid #CEE5F2;
+  border-right: 1px solid #cbe1ee;
   margin: 10px;
   padding: 10px;
   text-align: center;
 }
 
 .past {
-  background-color: #ACCBE1;
+  background-color: #aac9df;
   color: white;
 }
 
 .present {
-  background-color: #7C98B3;
+  background-color: #7995af;
   color: white;
 }
 
@@ -60,11 +60,11 @@ textarea {
 }
 
 .saveBtn {
-  background-color: rgba(99, 112, 129, 0.75);
+  background-color: rgba(105, 118, 136, 0.75);
   border: none;
   color: #ffffff; 
 }
 
 .saveBtn:hover {
-  background-color: rgba(99, 112, 129, 1);
+  background-color: rgba(105, 118, 136, 0.75);
 }
