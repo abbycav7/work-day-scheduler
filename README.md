@@ -10,9 +10,9 @@ Overall this was a  project, but one that
 
 ## Site Location
 
-[Site Location]
+[Site Location](https://abbycav7.github.io/work-day-scheduler/)
 
 ## Site Image
-![Site Image](./assets/css/images/screen-shot1.png)
-![Site Image](./assets/css/images/screen-shot2.png)
-![Site Image](./assets/css/images/screen-shot3.png)
+![Site Image](./assets/css/images/screenshot-1.png)
+![Site Image](./assets/css/images/screenshot-2.png)
+
