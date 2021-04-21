@@ -1,8 +1,8 @@
-// set the date at the top of the page
+// set the current date 
 var today = moment();
 $("#currentDay").text(today.format("dddd, MMMM Do"));
 
-// tasks object to store in localStorage.
+// tasks object to store in localStorage
 var tasks = {
     "9": [],
     "10": [],
@@ -34,7 +34,7 @@ var getTasks = function() {
         })
     }
 
-    // make sure the past/current/future time is reflected
+    // make sure the correct time is reflected
     auditTasks()
 }
 var createTask = function(taskText, hourDiv) {
