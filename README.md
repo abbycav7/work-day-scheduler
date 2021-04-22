@@ -2,11 +2,9 @@
 
 ## Description 
 
-This week I was challenged with creating a 
+This week I was challenged with creating a simple application that allows a user to save events each hour of the day. 
 
-While creating my site, I found challenges 
-
-Overall this was a  project, but one that 
+Overall this was an interesting project, and I could really understand it's real world application.
 
 ## Site Location
 
